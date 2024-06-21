@@ -2,7 +2,7 @@
   "name": "gerador-seguro",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://PHCavalcante.github.io/PHCavalcante/the-passgerator",
+  "homepage": "https://pyments.github.io/the-passgerator",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
